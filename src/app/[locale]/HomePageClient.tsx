@@ -1,6 +1,4 @@
 "use client";
-import { siteConfig } from "@/config/site";
-
 import Link from "next/link";
 import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -18,7 +16,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
-  const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+  const YOUTUBE_VIDEO_ID = "P3rE7su1Fxg"; // DELTARUNE Chapter 5 - Launch Trailer (official)
 
   return (
     <div className="min-w-0 space-y-16">
