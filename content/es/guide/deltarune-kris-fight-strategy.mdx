@@ -1,0 +1,216 @@
+export const metadata = {
+  title: "Estrategia de combate de Kris en Deltarune: Guía definitiva para sobrevivir a cada batalla",
+  description: "Domina cada encuentro con nuestra completa guía de estrategia de combate para Kris en Deltarune. Aprende rotaciones óptimas de ACT, gestión de TP, equipamiento y tácticas contra jefes.",
+  category: "guide",
+  date: "2026-10-05",
+};
+
+Adentrarse en el Mundo Oscuro exige reflejos sumamente afilados, una gestión disciplinada de recursos y una comprensión profunda de cómo se interconectan los comandos del grupo. Ya sea que te enfrentes a jefes secretos escurridizos o superes tensos combates de la historia principal, ejecutar una estrategia de combate de Kris en Deltarune eficaz es el factor más determinante para mantener con vida a tu equipo. Dominar la estrategia de combate de Kris en Deltarune te asegura sortear patrones densos de bullet-hell, preservar valiosos Puntos de Tensión y adaptarte a la perfección a cada cambio de fase.
+
+En el aclamado RPG episódico de Toby Fox, Kris ocupa un lugar mecánico y narrativo único. Al ser el único integrante del grupo capaz de usar comandos estándar de ACT (Actuar) sin consumir Puntos de Tensión (TP), Kris actúa tanto de ancla táctica como de recipiente para el Alma Roja del jugador. Esta guía desglosa los sistemas centrales, las rotaciones de prioridad turno a turno, las configuraciones óptimas de equipamiento y las tácticas específicas para superar cada desafío del juego.
+
+## Fundamentos del rol en combate de Kris en Deltarune
+
+Para ejecutar una estrategia de combate de Kris en Deltarune de alto nivel, primero debes comprender su identidad mecánica en batalla. Kris cuenta con estadísticas equilibradas entre Ataque, Defensa y Magia, lo que lo convierte en la unidad más versátil del grupo. Mientras que Susie destaca por su daño físico puro y Ralsei domina la curación y la magia de apoyo, Kris dicta el ritmo del combate a través del menú ACT.
+
+El sistema de combate se divide en dos fases bien definidas: la fase de decisión y la fase de evasión. Durante la fase de decisión, Kris selecciona acciones que pueden pacificar enemigos, alterar los estados de ataque de los jefes o activar movimientos combinados con el grupo. Durante la fase de evasión, el jugador controla directamente el Alma Roja, que representa la determinación de Kris, dentro del recuadro de proyectiles (bullet board).
+
+```
++--------------------------------------------------------------------------+
+|                      CICLO DE TURNO DE DELTARUNE                         |
+|                                                                          |
+|   [Fase de decisión] --> El grupo elige: FIGHT / ACT / ITEM / SPARE / DEF|
+|          |                                                               |
+|          v                                                               |
+|   [Ejecución]        --> Se ataca, surten efecto los ACT y varía el TP   |
+|          |                                                               |
+|          v                                                               |
+|   [Fase de evasión]  --> El Alma Roja esquiva proyectiles (Graze para TP)|
++--------------------------------------------------------------------------+
+```
+
+Dado que Kris controla los comandos ACT de todo el equipo, perder a Kris en combate inutiliza tu capacidad para reclutar enemigos o pacificar jefes. Mantener los PS de Kris debe ser siempre tu máxima prioridad de supervivencia.
+
+### Progresión de estadísticas base de Kris y sinergia del equipo
+
+Las estadísticas de Kris aumentan a medida que avanzan los capítulos y se completan hitos clave de la historia. Conocer estos valores base te permite decidir cuándo recurrir a Kris para aportar daño ofensivo o para cumplir una función puramente defensiva.
+
+| Hito del capítulo | PS base | Ataque base | Defensa base | Magia base | Utilidad táctica principal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Inicio del Capítulo 1 | 90 | 10 | 2 | 0 | Comandos ACT individuales, preparación de Pirouette |
+| Final del Capítulo 1 | 90 | 12 | 4 | 0 | Activación de Red Buster, Dual Heal |
+| Inicio del Capítulo 2 | 120 | 12 | 4 | 0 | Introducción de S-Action, ritmo de Pacify |
+| Final del Capítulo 2 | 120 | 14 | 6 | 0 | Ráfagas de daño con X-Slash, ciclo de Fried Pipis |
+| Base del Capítulo 3 | 160 | 16 | 7 | 1 | ACTs combinados avanzados, control de masas |
+
+Toda estrategia de combate de Kris en Deltarune exitosa depende del equilibrio entre las acciones exclusivas de Kris y los comandos del resto del equipo. En los combates donde el objetivo es la piedad, Kris pasa prácticamente cada turno activando ACTs individuales o guiando a Susie y a Ralsei mediante ACTs grupales.
+
+---
+
+## Economía de turnos y gestión de Puntos de Tensión (TP)
+
+Los Puntos de Tensión (TP) impulsan los hechizos y habilidades más poderosos de tu arsenal, entre los que destacan Heal Prayer de Ralsei, Rude Buster de Susie y el devastador X-Slash de Kris. Un pilar fundamental en cualquier estrategia de combate de Kris en Deltarune refinada es generar y gastar TP sin desperdiciar recursos.
+
+El TP se genera mediante dos métodos principales: defender durante la fase de decisión y rozar proyectiles enemigos (Graze) durante la fase de evasión. Defender otorga de inmediato un 16 % de TP por cada miembro del grupo que defienda, reduciendo a la vez el daño recibido ese turno entre un 50 % y un 66 %. El roce (Graze) exige colocar el Alma Roja peligrosamente cerca de las balas enemigas sin llegar a tocar sus cajas de impacto (hitboxes) activas.
+
+```
+       [Proyectil]
+            *
+         . --- .     <-- Límite de Graze (Genera TP + contorno blanco)
+       /    _    \
+      |   /   \   |
+      |  | Alma | |  <-- Hitbox activa (Recibir daño reduce TP)
+      |   \ _ /   |
+       \         /
+         ' --- '
+```
+
+### Matriz de prioridad de acciones para Kris
+
+Al planificar tu turno, evita recurrir a los ataques físicos estándar por defecto, a menos que estés llevando a cabo una partida expresamente violenta. La siguiente matriz describe cómo debes priorizar las decisiones de acción de Kris en función del estado de tu grupo y tus reservas de TP.
+
+| Condición de combate | Primera prioridad | Segunda prioridad | Acción de respaldo | Justificación estratégica |
+| :--- | :--- | :--- | :--- | :--- |
+| Miembro del grupo en estado crítico (&lt;25 % PS) | Usar objeto curativo o ACT de curación | Ordenar Heal Prayer a Ralsei | Defender con Kris | Evita la caída del aliado y mantiene el ritmo del turno. |
+| Barra de Spare del jefe al 70%+ | ACT de piedad específico del jefe | ACT grupal (ej. Dual ACT) | Defender para acumular TP | Empuja el encuentro hacia la pacificación inmediata. |
+| TP por debajo del 32 % (Reserva baja) | Defender con Kris | ACT estándar (coste 0 % TP) | Rozar balas agresivamente | Rellena la barra de TP con rapidez mientras protege al líder. |
+| TP por encima del 75 % (Exceso de reserva) | X-Slash (ruta violenta) / Sleep Mist | Ordenar Red Buster | ACT grupal de alto coste de TP | Transforma el excedente de TP en un avance decisivo en el combate. |
+| Fase de ataque inminente de gran daño | Defender con Kris | Usar ACT de aumento de Defensa | Reservar objeto curativo | Reduce a la mitad el daño en turnos clave, mitigando el riesgo de derrota. |
+
+Al seguir esta jerarquía, tu estrategia de combate de Kris en Deltarune se mantendrá consistente, reduciendo turnos de pánico donde los objetos se gastan de forma ineficiente.
+
+---
+
+## Configuración y sinergia de equipamiento para Kris
+
+Equipar a Kris con las armas y armaduras adecuadas modifica drásticamente el daño recibido y la agilidad de acción. En la versión oficial disponible a través del [sitio web oficial de DELTARUNE](https://deltarune.com/), las bonificaciones de equipo van más allá de simples valores de Ataque y Defensa: otorgan resistencias elementales y mejoras en el radio de roce.
+
+Maximizar la supervivencia de Kris garantiza que rara vez tengas que gastar los turnos de Ralsei en revivir a tu líder. Portar equipamiento que aumente el área de Graze o la generación de TP por roce multiplica tu efectividad global en batalla.
+
+### Configuraciones recomendadas según el tipo de encuentro
+
+Dependiendo de tu objetivo —ya sea completar una ruta pacifista, derrotar a superbosses secretos o buscar victorias ofensivas rápidas—, el equipo de Kris debe adaptarse en consecuencia.
+
+| Orientación de la build | Ranura de arma | Ranura de armadura 1 | Ranura de armadura 2 | Beneficios clave |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pacifista pura / Evasión** | Bounce Blade / Mecha Saber | Royal Pin | Amber Card / Iron Shackle | +Defensa, mayor radio de Graze, aumento de ganancia de TP |
+| **Supervivencia en jefe secreto** | Mecha Saber / Spooky Sword | Dealmaker | Chain Mail / Tension Gem | Alta Defensa, subida de Magia, notables bonificaciones de TP |
+| **Agresiva / Violenta** | Auto Axe / Brave Axe | Spike Band | Tension Bow | Máximo Ataque físico, multiplicadores críticos mejorados |
+| **Progresión equilibrada** | Wood Blade -> Mecha Saber | White Ribbon | Twin Ribbon / Dark Candy | Protección elemental equilibrada y Defensa base sólida |
+
+### Consumibles indispensables que almacenar
+
+Los objetos actúan como salvavidas de activación instantánea en turnos caóticos. Mantener el inventario de Kris abastecido con consumibles de alta recuperación te permite reponerte de impactos de proyectiles múltiples sin consumir reservas esenciales de TP.
+
+*   **Top Cake / Spin Cake:** Objeto de recuperación para todo el grupo, ideal para estabilizar la situación tras los ataques definitivos de los jefes.
+*   **Club Sandwich:** Tres usos por combate, restaura una cantidad sustancial de PS a todos los integrantes activos.
+*   **Revive Mint:** Red de seguridad imprescindible para revivir de inmediato a un aliado caído al máximo de su capacidad.
+*   **RouxlsRoux / Butler Juice:** Gran curación individual para Kris durante secuencias de duelo de daño masivo.
+
+---
+
+## Análisis táctico de jefes específicos
+
+Adaptar tu estrategia de combate de Kris en Deltarune al comportamiento de cada jefe resulta obligatorio al pasar de enemigos comunes a extenuantes batallas de varias fases. Cada gran jefe introduce mecánicas de proyectiles únicas, requisitos específicos de ACT y condiciones variables de pacificación.
+
+```
++-------------------------------------------------------------------------------+
+|                       FLUJO ESTRATÉGICO FRENTE A JEFES                        |
+|                                                                               |
+|   JEVIL        --> Enfoque: Caos con rotación fija | Recurso: Pirouette / Hypnosis|
+|   SPAMTON NEO  --> Enfoque: Carga del Alma Amarilla| Recurso: FriedPipis / SnapPress|
+|   QUEEN        --> Enfoque: Retirar escudo de ácido| Recurso: Toast / ACT grupal  |
++-------------------------------------------------------------------------------+
+```
+
+### Jevil (Jefe secreto del Capítulo 1)
+
+Jevil supone la primera prueba de habilidad técnica real del juego. Sus ataques siguen patrones matemáticos estrictos que exigen un desplazamiento rítmico y preciso.
+
+Al diseñar tu estrategia de combate de Kris en Deltarune contra Jevil, decide pronto si optar por Hypnosis o Pirouette. Hypnosis cuesta un 32 % de TP, reduce de forma notable el cansancio de Jevil y disminuye ligeramente su estadística de ataque para el turno siguiente. Por su parte, Pirouette solo cuesta un 16 % de TP pero desencadena efectos rotativos y semialeatorios basados estrictamente en el número del turno actual.
+
+| Número de turno (Módulo 9) | Efecto de Pirouette | Utilidad práctica | Acción recomendada del jugador |
+| :--- | :--- | :--- | :--- |
+| Turno 1 | No ocurre nada | Neutral | Conservar TP; priorizar Hypnosis |
+| Turno 2 | Reduce la Defensa de Jevil | Ofensiva | Ideal para avanzar con daño físico |
+| Turno 3 | Reduce los fotogramas de invulnerabilidad | Perjudicial | Extrema precaución; permanecer en el centro |
+| Turno 4 | Incrementa la Defensa del grupo | Alta Defensa | Excelente turno de estabilización |
+| Turno 5 | No ocurre nada | Neutral | Prepararse para una fase pesada de proyectiles |
+| Turno 6 | Cura a un miembro aleatorio | Moderada | Recuperación incidental útil |
+| Turno 7 | Baraja los PS máximos del grupo | Alto Riesgo | Evitar usar Pirouette en el Turno 7 |
+| Turno 8 | Potencia el daño del siguiente turno | Ofensiva | Preparar el Red Buster de Susie |
+| Turno 9 | Restaura ~30 PS a todos los aliados | Alta Utilidad | Ventana de recuperación perfecta |
+
+### Spamton NEO (Jefe secreto del Capítulo 2)
+
+Enfrentar a Spamton NEO transforma tu interfaz de combate al convertir el Alma Roja de Kris en el Alma Amarilla, capaz de disparar ráfagas de proyectiles cargados. Una estrategia de combate de Kris en Deltarune adaptada a este encuentro prioriza la disciplina de disparo y la selección de objetivos.
+
+1.  **Usar disparos cargados para despejar obstáculos:** Mantener pulsado el botón de disparo desata una ráfaga perforante que destruye bombas Pipis y cabezas flotantes en trayectoria.
+2.  **ACTs Snap y SnapPress:** Al intentar la ruta pacifista, Kris debe alternar entre Snap y SnapPress. SnapPress requiere coordinación del grupo para cortar varios cables a la vez, con un coste de 16 % de TP.
+3.  **Mitigación en la fase del corazón:** Cuando Spamton expone su corazón, prioriza disparos rápidos y continuos en vez de ráfagas cargadas para maximizar el número de impactos antes de que el corazón se oculte.
+4.  **Esquivar el ataque de los teléfonos:** Mantén el Alma situada en el borde izquierdo de la arena, desplazándote con suaves movimientos verticales en lugar de trayectorias circulares erráticas.
+
+---
+
+## Mecánicas de evasión: Dominio de la Hitbox del Alma y el Graze
+
+Por muy precisa que sea la selección de comandos en los menús, el éxito de una estrategia de combate de Kris en Deltarune se define en la evasión dentro del bullet board. La experiencia de los jugadores a lo largo de miles de intentos demuestra que la mayoría de los fallos se deben a movimientos excesivos y correcciones bruscas, más que a errores en los menús.
+
+El Alma Roja tiene una caja de impacto (hurtbox) notablemente más pequeña que su representación visual. El píxel central exacto del corazón determina las colisiones de daño, mientras que el brillo exterior activa el sistema de Graze. Reconocer esta diferencia te permite deslizarte entre cortinas de balas aparentemente impenetrables.
+
+```
+    [Arriba-Izquierda]             [Arriba-Derecha]
+            \                          /
+             \      +----------+      /
+              \     |  TABLERO |     /
+                    | DE BALAS |
+              /     |          |     \
+             /      +----------+      \
+            /                          \
+    [Abajo-Izquierda]               [Abajo-Derecha]
+
+  Consejo: Da toques direccionales rápidos de 1 o 2 fotogramas
+           para microajustar dentro de pasillos de balas.
+```
+
+### Técnicas de evasión para patrones de ataque críticos
+
+Los análisis de la comunidad y de speedruns han catalogado varios arquetipos de movimiento para fases con alta densidad de proyectiles:
+
+| Arquetipo de ataque | Peligro principal | Patrón de movimiento óptimo | Estrategia de Graze |
+| :--- | :--- | :--- | :--- |
+| **Ráfagas radiales** | Anillos de balas convergentes | Giros circulares cortos siguiendo la rotación | Rozar el perímetro de cada anillo según se expande |
+| **Proyectiles teledirigidos** | Balas que persiguen al Alma | Trayectorias amplias en ocho para desviar vectores | Atraer el proyectil cerca antes de cambiar de dirección |
+| **Barridos de láser** | Rayos direccionales de gran velocidad | Posicionarse con antelación en zonas seguras | Rozar la estela residual del haz una vez disparado |
+| **Cascadas descendentes** | Columnas de escombros en caída vertical | Microtoques laterales entre columnas descendentes | Mantener la posición entre dos carriles; rozar los bordes |
+
+Dominar los microtoques —pulsando las teclas de dirección durante apenas 1 o 2 fotogramas— evita colisiones accidentales. Incorporar estos ajustes milimétricos a tu estrategia de combate de Kris en Deltarune elevará radicalmente tu tasa de supervivencia en cualquier capítulo.
+
+---
+
+## Experiencia de jugadores y tácticas contrastadas por la comunidad
+
+Tras años de optimización por parte de jugadores veteranos, la comunidad ha descubierto sutiles interacciones mecánicas que otorgan una gran ventaja en los combates más duros:
+
+*   **Comandos en buffer durante transiciones:** Es posible pulsar la dirección de movimiento deseada justo cuando aparece el cuadro de proyectiles. Esto evita sufrir daño inmediato por balas iniciales de aparición rápida.
+*   **La economía de "Defender para Curar":** Al quedarse sin objetos, la comunidad recomienda poner a Kris y a Susie en modo Defend mientras Ralsei lanza Heal Prayer. El TP obtenido entre ambos cubre casi todo el coste de Heal Prayer, creando un ciclo de curación autosuficiente.
+*   **Identificación de pistas sonoras:** Toby Fox sincroniza muchos patrones de ataque con el tempo musical. Escuchar los golpes de ritmo ayuda a anticipar el instante exacto en que una lluvia de balas se dispersa o cambia de dirección.
+*   **Ralentización por impacto:** En fases veloces, rozar múltiples proyectiles a la vez produce una mínima desaceleración en ciertas configuraciones, otorgando fracciones de segundo vitales para calcular la siguiente maniobra.
+
+Aplicar estas tácticas probadas por la comunidad convierte fases de jefes estresantes en rutinas predecibles y dominables.
+
+---
+
+## Preguntas frecuentes
+
+### ¿Cuál es la estrategia de combate de Kris en Deltarune más fiable para jefes secretos?
+La estrategia más consistente contra jefes secretos consiste en utilizar a Kris exclusivamente para gestionar comandos ACT, mientras Susie y Ralsei defienden para acumular TP. Esta formación asegura un suministro ininterrumpido de Puntos de Tensión para hechizos de recuperación clave como Heal Prayer o ACTs de control de turnos como Hypnosis, minimizando el daño sufrido por tus compañeros de equipo.
+
+### ¿Debe Kris centrarse siempre en el comando ACT en lugar de atacar?
+En partidas pacifistas habituales, Kris debe utilizar prácticamente siempre comandos ACT o Defender para producir TP. En rutas violentas o agresivas, su papel pasa a ser el de atacante físico pesado con armas como la Mecha Saber o la Auto Axe, aprovechando habilidades de gran daño como X-Slash en cuanto el TP alcanza el 25 %.
+
+### ¿Cómo influye el roce (Graze) en la supervivencia de Kris en combates difíciles?
+Rozar proyectiles acelera el llenado de la barra de Tensión sin obligarte a gastar turnos en el comando Defend. Además, el roce acorta ligeramente la duración de ciertos patrones de ataque de los jefes, permitiéndote regresar antes a la fase de decisión mientras acumulas los recursos indispensables para tus mejores habilidades.
+
+### ¿Qué equipamiento proporciona la mejor defensa para Kris en el Capítulo 2?
+Para lograr la máxima supervivencia, combina la Mecha Saber con piezas de armadura defensivas como el Dealmaker y el Royal Pin o la Chain Mail. Esta combinación proporciona una de las defensas físicas más altas del juego, considerable resistencia elemental y generosas bonificaciones a la ganancia de TP que optimizan la efectividad de todo el grupo.

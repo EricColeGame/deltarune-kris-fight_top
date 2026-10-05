@@ -9,7 +9,37 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "combat": "Combat",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "lore": "Lore",
+    "fanmade": "Fanmade"
+  },
+  "guide": {
+    "overviewTitle": "Deltarune Kris Fight Guides",
+    "overviewDescription": "Step-by-step deltarune kris fight guides covering beginner tips, attack patterns, strategy, and a full walkthrough of the encounter."
+  },
+  "combat": {
+    "overviewTitle": "Deltarune Kris Fight Combat",
+    "overviewDescription": "Combat breakdowns for the deltarune kris fight, including boss phases, the fighting SOUL, the weird route, and how Kris fights the player."
+  },
+  "characters": {
+    "overviewTitle": "Deltarune Kris Fight Characters",
+    "overviewDescription": "Profiles of the deltarune kris fight cast, from Kris, Susie, and Ralsei to Gaster, the Vessel, and the Roaring Knight."
+  },
+  "mechanics": {
+    "overviewTitle": "Deltarune Kris Fight Mechanics",
+    "overviewDescription": "The systems behind the deltarune kris fight: HP, SOUL, stats, sprites, poses, and the battle theme."
+  },
+  "lore": {
+    "overviewTitle": "Deltarune Kris Fight Lore",
+    "overviewDescription": "Story and theory articles about the deltarune kris fight, including Kris's gender, morality, the player theory, the Roaring Knight, and why Kris fights."
+  },
+  "fanmade": {
+    "overviewTitle": "Deltarune Kris Fight Fan-made",
+    "overviewDescription": "Fan creations inspired by the deltarune kris fight, including animations, fangames, Roblox versions, Megalo Strike Back, and theme remixes."
   },
   "home": {
     "meta": {
@@ -389,7 +419,6 @@
       "secondary": "Play DELTARUNE on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -420,10 +449,10 @@
     "officialYoutube": "UNDERTALE / DELTARUNE Official",
     "vvBuilder": "Kris Fight Guide Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "combatGuides": "Combat Guides",
+    "characterGuides": "Character Guides",
+    "mechanicsGuides": "Mechanics Guides"
   }
 }
