@@ -1,1 +1,458 @@
-{}
+{
+  "site": {
+    "name": "Deltarune Kris Fight Wiki",
+    "shortName": "Deltarune Kris Fight",
+    "tagline": "クリス戦ガイド、ボス攻略、チャプター5の秘密",
+    "description": "ファン制作のDeltarune Kris Fight wiki。クリス戦、ボス攻略、チャプター5ガイド、秘密、戦闘メカニクス、キャラクター、重要なストーリー戦を網羅します。",
+    "legalNotice": "非公式のファンwikiです。Toby FoxおよびDELTARUNEとは提携していません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "combat": "戦闘",
+    "characters": "キャラクター",
+    "mechanics": "メカニクス",
+    "lore": "考察",
+    "fanmade": "ファンメイド"
+  },
+  "guide": {
+    "overviewTitle": "Deltarune Kris Fight ガイド",
+    "overviewDescription": "初心者向けのコツ、攻撃パターン、戦略、戦闘の完全攻略までを網羅した、クリス戦のステップバイステップガイド。"
+  },
+  "combat": {
+    "overviewTitle": "Deltarune Kris Fight 戦闘",
+    "overviewDescription": "ボスのフェーズ、戦うソウル、ウィアードルート、クリスがプレイヤーと戦う仕組みなど、クリス戦の戦闘を詳しく解説。"
+  },
+  "characters": {
+    "overviewTitle": "Deltarune Kris Fight キャラクター",
+    "overviewDescription": "クリス、スージー、ラルセイからガスター、器（Vessel）、轟く騎士まで、クリス戦の登場人物を紹介。"
+  },
+  "mechanics": {
+    "overviewTitle": "Deltarune Kris Fight メカニクス",
+    "overviewDescription": "HP、ソウル、ステータス、スプライト、ポーズ、戦闘テーマなど、クリス戦を支えるシステムを解説。"
+  },
+  "lore": {
+    "overviewTitle": "Deltarune Kris Fight 考察",
+    "overviewDescription": "クリスの性別、道徳性、プレイヤー理論、轟く騎士、なぜクリスが戦うのかなど、クリス戦に関するストーリーと考察記事。"
+  },
+  "fanmade": {
+    "overviewTitle": "Deltarune Kris Fight ファンメイド",
+    "overviewDescription": "アニメーション、ファンゲーム、Roblox版、Megalo Strike Back、テーマのリミックスなど、クリス戦に触発されたファン制作。"
+  },
+  "home": {
+    "meta": {
+      "title": "Deltarune Kris Fight Wiki - ボス・ガイド・秘密",
+      "description": "Deltarune Kris Fight Wikiは、クリス戦、ボス攻略、チャプター5ガイド、秘密、メカニクス、キャラクター、重要なストーリー戦をプレイヤー向けに解説します。"
+    },
+    "hero": {
+      "eyebrow": "ファン制作のコミュニティwiki",
+      "title": "Deltarune Kris Fight Wiki",
+      "description": "クリス戦、戦闘メカニクス、ボス、チャプター、秘密、戦略、ストーリー関連の戦闘を網羅したDELTARUNE専門ガイド。",
+      "stats": [
+        "英語ユーザーレビュー 56K+件",
+        "5チャプター配信中",
+        "高評価率98%",
+        "チャプター6は2027年予定"
+      ],
+      "primaryCta": "クリス戦ガイド",
+      "secondaryCta": "ボス戦ガイド",
+      "tertiaryCta": "チャプター5ガイド",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Deltaruneクリス戦の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "DELTARUNEは初めてですか？FIGHT、ACT、ITEM、DEFENDのターンの流れ、赤いソウルが弾幕ボード上を動く仕組み、クリス、スージー、ラルセイを立たせ続けるコツを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "ボス戦ガイド",
+          "description": "カオスキング、ジェビル、クイーンとGIGAクイーン、スパムトンNEOなどの主要な戦いに備え、パーティ編成、装備、フェーズごとの戦術を身につけましょう。"
+        },
+        {
+          "number": "3",
+          "title": "ソウルとTPのメカニクス",
+          "description": "赤いソウルの当たり判定、テンションポイントを稼ぐグレイズ、TPの使い方をマスターし、ここぞという時にラルセイが回復し、パーティが魔法を唱えられるようにしましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ACTとみのがしの方法",
+          "description": "プレイスルーを決める前に、みのがしゲージ、ACTコマンド、平和ルートと暴力ルートで報酬がどう変わるかを理解しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題",
+      "quickLinks": [
+        "初心者ガイド",
+        "ボス戦",
+        "クリスの考察",
+        "隠しボス"
+      ]
+    },
+    "aboutGame": {
+      "title": "Deltaruneのクリス戦とは？",
+      "paragraphs": [
+        "Deltaruneのクリス戦は、DELTARUNEのターン制戦闘の核心です。クリスは戦術家としてパーティを率い、毎ターンFIGHT、ACT、ITEM、SPARE、DEFENDを選びながら、あなたは赤いソウルを弾幕ボード上の弾幕パターンの間で操作します。クリス、スージー、ラルセイはそれぞれ異なる役割を担い、彼らのターンを連携させることが、クリーンな勝利と全滅の分かれ目になります。",
+        "チャプター1のカオスキングと隠しボスのジェビルから、チャプター2のクイーン、GIGAクイーン、スパムトンNEOまで、Deltaruneのクリス戦はチャプターが進むごとに難しくなります。弾をグレイズすると回復や魔法のためのテンションポイントが貯まり、ACTコマンドは平和ルート用のみのがしゲージを満たし、暴力ルートはEXPと引き換えにはるかに暗い物語へと進みます。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "tobyfox"
+        },
+        {
+          "label": "販売元",
+          "value": "tobyfox"
+        },
+        {
+          "label": "対応プラットフォーム",
+          "value": "PC, Mac, Switch, PlayStation"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ストーリー重視のピクセルRPG"
+        },
+        {
+          "label": "チャプター",
+          "value": "1〜5配信中"
+        },
+        {
+          "label": "Steamレビュー",
+          "value": "56K+"
+        },
+        {
+          "label": "高評価率",
+          "value": "98%"
+        },
+        {
+          "label": "チャプター6予定",
+          "value": "2027"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Deltaruneクリス戦ガイドを探す",
+      "description": "初心者向け戦闘、完全攻略、攻撃パターン、戦略、選択、キャラクター、チャプター、秘密を網羅したクリス戦ガイドを見てみましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Deltaruneクリス戦ガイド",
+          "description": "クリス戦に焦点を当てたガイド。戦いの仕組み、ターンの流れ、防御のタイミング、各フェーズを突破する実践的な戦略を解説します。",
+          "href": "/guide/deltarune-kris-fight-how-to-beat",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "毎ターン、クリス、スージー、ラルセイにFIGHT、ACT、ITEM、SPARE、DEFENDを指示しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "敵の弾幕フェーズを読み、迫る弾の間を縫って赤いソウルを操作しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "弾をグレイズしてテンションポイントを貯め、TPをラルセイの回復魔法に使いましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "ACTコマンドでみのがしゲージを上げ、平和的な解決を解放しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "FIGHTの攻撃バーを合わせ、かすりではなく正確なヒットを決めましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "フェーズ移行の前に、回復アイテムを最低1つ用意しておきましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Deltaruneクリス戦 完全攻略",
+          "description": "クリス戦までの完全な進行を、戦いに至る手順と戦闘前後の重要イベントの対処法とともに解説。",
+          "href": "/guide/deltarune-kris-fight-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "戦いの前に条件を満たし、適切な装備と消耗品を用意しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "剣の連撃を抜けながら判定ボックスを安定させ、フェーズ1を突破しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "フェーズ2の同期のずれたソウル攻撃には、落ち着いた細かい動きで適応しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "フェーズ3の捨て身のパターンを生き延び、倒れた仲間を蘇生しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "平和的なみのがしか暴力的な決着を選び、対応する報酬を手に入れましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Deltaruneクリス戦の攻撃",
+          "description": "クリス戦の主要な攻撃と戦闘パターンを一覧化し、それぞれの注意点と対処法を解説。",
+          "href": "/guide/deltarune-kris-fight-attack-patterns",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "剣技",
+              "detail": "大きな動きを罰する、フェーズ1の直線的な剣の軌道。"
+            },
+            {
+              "label": "エコー",
+              "detail": "あなたの回避をなぞる、フェーズ2の運動エコーと影のステップ。"
+            },
+            {
+              "label": "連撃",
+              "detail": "高速の弾が重なり合う、フェーズ3の捨て身の連撃。"
+            },
+            {
+              "label": "三日月",
+              "detail": "弾幕ボードの大半を覆う、薙ぎ払う三日月の波。"
+            },
+            {
+              "label": "斬撃",
+              "detail": "遅延する高ダメージ地帯を示す、空間斬撃のインジケーター。"
+            },
+            {
+              "label": "グレイズ",
+              "detail": "紙一重のグレイズで、かすりをテンションポイントに変換。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Deltaruneクリス戦の戦略",
+          "description": "位置取り、回避、行動選択、無駄なダメージを減らす方法を、信頼性順にまとめた実践的な戦闘戦略。",
+          "href": "/guide/deltarune-kris-fight-strategy",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ボックス中央でニュートラルな立ち位置を保ち、どの回避方向にも動けるようにしましょう。"
+            },
+            {
+              "label": "A",
+              "detail": "重いフェーズの前にDEFENDでTPを貯め、ラルセイが必要時に回復できるようにしましょう。"
+            },
+            {
+              "label": "B",
+              "detail": "長時間の多段フェーズ戦に備え、防御と魔法のバランスが取れた装備を整えましょう。"
+            },
+            {
+              "label": "C",
+              "detail": "消耗品は緊急用に取っておき、フェーズ中ずっと頼りにしないようにしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Deltaruneクリス戦の選択",
+          "description": "クリス戦を巡る重要な選択の仕組みと、行動の違いが戦闘、ルート、周辺の物語をどう変えるかを解説。",
+          "href": "/combat/deltarune-kris-fight-weird-route",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "平和主義",
+              "detail": "敵やボスをみのがし、物語をより軽やかな道に保ちましょう。"
+            },
+            {
+              "label": "暴力",
+              "detail": "EXPのために敵を攻撃・撃破しますが、その代償はより暗いルートです。"
+            },
+            {
+              "label": "みのがし",
+              "detail": "ACTコマンドでみのがしゲージを満たし、戦いを平和的に終わらせましょう。"
+            },
+            {
+              "label": "みのがし",
+              "detail": "ACTとみのがしのたびに、非暴力の結末へ向けてみのがしゲージが上がります。"
+            },
+            {
+              "label": "ルート",
+              "detail": "終盤の選択が、そのセーブで到達できるエンディングと秘密を決めます。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Deltarune Kris Fight キャラクター",
+          "description": "クリスと戦いに関わる主要キャラクターを、戦闘での役割と物語上の関わりに焦点を当てて手早く紹介。",
+          "href": "/characters/deltarune-kris-fight-kris",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kris",
+              "detail": "パーティを率い、弾幕ボードを操作する、無口な人間のソウル保持者。"
+            },
+            {
+              "label": "Susie",
+              "detail": "強力な物理ダメージと、威圧を基にしたACT。"
+            },
+            {
+              "label": "Ralsei",
+              "detail": "パーティの回復役で、なだめる魔法と回復魔法を使います。"
+            },
+            {
+              "label": "Gaster",
+              "detail": "DELTARUNEの最深部の秘密に関わる謎の人物。"
+            },
+            {
+              "label": "騎士",
+              "detail": "後のチャプターの出来事の背後に潜む脅威、轟く騎士。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Deltaruneクリス戦のチャプター",
+          "description": "クリス戦の情報をチャプター別に整理し、各戦いや関連イベントがどのチャプターに属するかをすぐに確認できます。",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CH1",
+              "detail": "カード王国でのカオスキングとの決戦と、隠しボスのジェビル。"
+            },
+            {
+              "label": "CH2",
+              "detail": "クイーンとGIGAクイーン、そして隠しボスのスパムトンNEO。"
+            },
+            {
+              "label": "CH3",
+              "detail": "パーティのダークワールドの旅を広げる、配信済みのチャプター。"
+            },
+            {
+              "label": "CH4",
+              "detail": "新たな戦いと物語の展開がある、後のチャプター。"
+            },
+            {
+              "label": "CH5",
+              "detail": "最新の配信済みチャプターで、チャプター1〜4とともにプレイできます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Deltaruneクリス戦の秘密",
+          "description": "クリスと戦いに関わる注目すべき隠し要素、珍しい戦闘の相互作用、秘密を、ファンの考察とは分けて紹介。",
+          "href": "/lore/deltarune-kris-fight-player-theory",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "別ルート",
+              "detail": "プレイヤーの選択がクリスをより暗い行為へと導く、もう一つの道。"
+            },
+            {
+              "label": "ソウル引き抜き",
+              "detail": "クリスがソウルを引き抜くカットシーンは、より大きな謎を示唆します。"
+            },
+            {
+              "label": "Goner",
+              "detail": "隠された器の製作者と、ガスターとのつながり。"
+            },
+            {
+              "label": "Jevil",
+              "detail": "隠された重要アイテムでたどり着く、チャプター1の隠しボス。"
+            },
+            {
+              "label": "Spamton",
+              "detail": "手強いNEO形態を持つ、チャプター2の隠しボス。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Deltaruneのクリス戦、そのボス、各フェーズの生き延び方についての簡単な回答。",
+      "items": [
+        {
+          "question": "Deltaruneのクリス戦とは？",
+          "answer": "DELTARUNEの核心にあるターン制戦闘システムで、クリスがスージーとラルセイを率い、あなたは赤いソウルとして弾幕パターンを回避します。"
+        },
+        {
+          "question": "Deltaruneのクリス戦が上手くなるには？",
+          "answer": "テンションポイントのために弾のグレイズを練習し、重いフェーズの前にDEFENDを使い、ラルセイの回復を準備して、長い戦いを生き延びましょう。"
+        },
+        {
+          "question": "Deltaruneのクリス戦にはどのボスが登場しますか？",
+          "answer": "主な戦いにはカオスキング、ジェビル、クイーン、GIGAクイーン、スパムトンNEOが含まれ、それぞれ独自の攻撃フェーズと戦術があります。"
+        },
+        {
+          "question": "誰も倒さずにDeltaruneのクリス戦を終えられますか？",
+          "answer": "はい。ACTコマンドとSPAREでみのがしゲージが満たされ、平和主義ルートで戦いを平和的に完了できます。"
+        },
+        {
+          "question": "Deltaruneのクリス戦はどこから始めればいいですか？",
+          "answer": "まず初心者ガイドから始め、戦いが難しくなるにつれて完全攻略とボスガイドへ進みましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "クリス戦をマスターする準備はできましたか？",
+      "description": "最初の戦いから終盤のボス戦まで、コミュニティwikiがDELTARUNEチャプター5の戦闘、秘密、戦略を無料の最新ガイドで網羅します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "SteamでDELTARUNEをプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "DELTARUNEをプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Deltarune Kris Fight Wiki",
+    "about": "Deltarune Kris Fight Wikiは、クリス戦、ボス攻略、チャプター5の秘密、キャラクター、そして新旧のプレイヤーに必要な戦闘知識を網羅する、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Deltarune Kris Fight Wiki. Toby FoxおよびDELTARUNEとは提携していません。",
+    "description": "ファン制作のDELTARUNEガイドハブ。クリス戦、ボス、チャプター5の秘密、戦闘戦略。",
+    "playGame": "SteamでDELTARUNEをプレイ",
+    "officialDiscord": "r/Deltarune コミュニティ",
+    "officialYoutube": "UNDERTALE / DELTARUNE 公式",
+    "vvBuilder": "クリス戦ガイドハブ",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "combatGuides": "戦闘ガイド",
+    "characterGuides": "キャラクターガイド",
+    "mechanicsGuides": "メカニクスガイド"
+  }
+}
