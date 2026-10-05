@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to DELTARUNE? Learn the FIGHT, ACT, ITEM, and DEFEND turn flow, how the red SOUL moves on the bullet board, and how to keep Kris, Susie, and Ralsei standing."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Boss Fight Guide",
+          "description": "Prepare for major encounters such as the Chaos King, Jevil, Queen and GIGA Queen, and Spamton NEO with party setups, gear, and phase-by-phase tactics."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Soul & TP Mechanics",
+          "description": "Master the red SOUL hitbox, grazing for Tension Points, and TP spending so Ralsei can heal and your party can cast spells when it matters most."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Deltarune Kris Fight."
+          "title": "How to ACT & Spare",
+          "description": "Understand Mercy meters, ACT commands, and how pacifist and violence routes change rewards before you commit to a playthrough."
         }
       ]
     },
@@ -66,237 +66,291 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
-      ],
-      "cards": [
-        {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
-        }
+        "Beginner Guide",
+        "Boss Fights",
+        "Kris Lore",
+        "Secret Bosses"
       ]
     },
     "aboutGame": {
-      "title": "What is Deltarune Kris Fight?",
+      "title": "What is the Deltarune Kris Fight?",
       "paragraphs": [
-        "Deltarune Kris Fight is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The deltarune kris fight is the heart of DELTARUNE's turn-based combat. Kris leads the party as its tactician, choosing FIGHT, ACT, ITEM, SPARE, or DEFEND every turn while you steer the red SOUL through bullet patterns on the battle board. Kris, Susie, and Ralsei each fill a distinct role, and coordinating their turns is the difference between a clean win and a wipe.",
+        "From Chapter 1's Chaos King and the secret boss Jevil to Chapter 2's Queen, GIGA Queen, and Spamton NEO, the deltarune kris fight grows harder with every chapter. Grazing bullets builds Tension Points for healing and spells, ACT commands fill Mercy meters for pacifist runs, and violence routes trade EXP for a much darker story."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "tobyfox"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "tobyfox"
+        },
+        {
+          "label": "Platforms",
+          "value": "PC, Mac, Switch, PlayStation"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Story-Driven Pixel RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Chapters",
+          "value": "1-5 Available"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Steam Reviews",
+          "value": "56K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Positive Rating",
+          "value": "98%"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Chapter 6 Target",
+          "value": "2027"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Deltarune Kris Fight Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Deltarune Kris Fight Guides",
+      "description": "Browse deltarune kris fight guides covering beginner combat, full walkthroughs, attack patterns, strategy, choices, characters, chapters, and secrets.",
       "modules": [
         {
           "order": 1,
-          "name": "Deltarune Kris Fight Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes",
-          "displayType": "code-box",
+          "name": "Deltarune Kris Fight Guide",
+          "description": "A focused guide to the Kris fight: how the encounter works, the turn flow, defensive timing, and practical strategies for progressing through each phase.",
+          "href": "/guide/deltarune-kris-fight-how-to-beat",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Queue FIGHT, ACT, ITEM, SPARE, or DEFEND for Kris, Susie, and Ralsei each turn."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Read the enemy bullet-board phase and steer the red SOUL between incoming projectiles."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Graze bullets to build Tension Points, then spend TP on Ralsei's healing spells."
+            },
+            {
+              "label": "4",
+              "detail": "Use ACT commands to raise Mercy and unlock peaceful solutions."
+            },
+            {
+              "label": "5",
+              "detail": "Time the FIGHT strike bar to land accurate hits instead of glancing blows."
+            },
+            {
+              "label": "6",
+              "detail": "Keep at least one healing item ready before every phase transition."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Deltarune Kris Fight Walkthrough",
+          "description": "The complete progression around the Kris fight, with clear steps for reaching the encounter and handling the key events before and during the battle.",
+          "href": "/guide/deltarune-kris-fight-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Meet the prerequisites and stock the right gear and consumables before the encounter."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Clear Phase 1 by holding the bounding box steady through sword flurries."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Adapt to Phase 2's desynchronized SOUL attacks with calm micro-steps."
+            },
+            {
+              "label": "4",
+              "detail": "Survive the Phase 3 desperation patterns and revive any fallen allies."
+            },
+            {
+              "label": "5",
+              "detail": "Choose a pacifist spare or a violent finish and collect the matching rewards."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Deltarune Kris Fight Attacks",
+          "description": "Catalog of the major attacks and battle patterns tied to the Kris fight, explaining what to watch for and how to respond to each one.",
+          "href": "/guide/deltarune-kris-fight-attack-patterns",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Swordplay",
+              "detail": "Phase 1 linear sword trajectories that punish wide movements."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Echoes",
+              "detail": "Phase 2 kinetic echoes and shadow steps that mirror your own dodges."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Flurry",
+              "detail": "Phase 3 desperation flurry with overlapping fast projectiles."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Crescents",
+              "detail": "Sweeping crescent waves that cover most of the bullet board."
+            },
+            {
+              "label": "Cleaves",
+              "detail": "Spatial cleave indicators that mark delayed, high-damage zones."
+            },
+            {
+              "label": "Graze",
+              "detail": "Close-call grazing that converts near misses into Tension Points."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Deltarune Kris Fight Strategy",
+          "description": "Practical combat strategy ranked by reliability, covering positioning, dodging, action choices, and ways to cut unnecessary damage.",
+          "href": "/guide/deltarune-kris-fight-strategy",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Hold a box-center neutral stance so every dodge direction stays open."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Bank TP with DEFEND before heavy phases so Ralsei can heal on demand."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Equip gear that balances defense and magic for long multi-phase fights."
+            },
+            {
+              "label": "C",
+              "detail": "Keep consumables for emergencies instead of relying on them all phase."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Deltarune Kris Fight Choices",
+          "description": "How the important choices around the Kris fight work and how different actions change the battle, the route, and the surrounding story.",
+          "href": "/combat/deltarune-kris-fight-weird-route",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Pacifist",
+              "detail": "Spare enemies and bosses to keep the story on its lighter path."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Violence",
+              "detail": "Attack and defeat enemies for EXP at the cost of a darker route."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Spare",
+              "detail": "Fill the Mercy meter with ACT commands to end fights peacefully."
+            },
+            {
+              "label": "Mercy",
+              "detail": "Every ACT and spare raises Mercy toward a non-violent outcome."
+            },
+            {
+              "label": "Route",
+              "detail": "Late choices decide which ending and secrets your save can reach."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Deltarune Kris Fight Characters",
+          "description": "A quick reference to Kris and the characters most relevant to the encounter, focused on their combat roles and narrative ties to the fight.",
+          "href": "/characters/deltarune-kris-fight-kris",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Kris",
+              "detail": "The silent human SOUL-bearer who leads the party and controls the bullet board."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Susie",
+              "detail": "Heavy physical damage and intimidation-based ACTs."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Ralsei",
+              "detail": "The party healer, using Pacify and restorative magic."
+            },
+            {
+              "label": "Gaster",
+              "detail": "The mysterious figure tied to DELTARUNE's deepest secrets."
+            },
+            {
+              "label": "Knight",
+              "detail": "The Roaring Knight, a looming threat behind later chapter events."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Deltarune Kris Fight Chapters",
+          "description": "Kris fight information organized by chapter so visitors can quickly see where an encounter or related event belongs across the released game.",
+          "href": "/guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CH1",
+              "detail": "The Chaos King finale and the secret boss Jevil in the Card Kingdom."
+            },
+            {
+              "label": "CH2",
+              "detail": "Queen and GIGA Queen, plus the secret boss Spamton NEO."
+            },
+            {
+              "label": "CH3",
+              "detail": "A released chapter that expands the party's Dark World journey."
+            },
+            {
+              "label": "CH4",
+              "detail": "A later chapter with new encounters and story developments."
+            },
+            {
+              "label": "CH5",
+              "detail": "The latest released chapter, available now with Chapters 1-4."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Deltarune Kris Fight Secrets",
+          "description": "Notable hidden details, unusual battle interactions, and secrets connected to Kris and the encounter, kept separate from fan theories.",
+          "href": "/lore/deltarune-kris-fight-player-theory",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Alt Route",
+              "detail": "An alternate path where player choices push Kris toward darker acts."
+            },
+            {
+              "label": "Soul Pull",
+              "detail": "Cutscenes where Kris removes the SOUL hint at a larger mystery."
+            },
+            {
+              "label": "Goner",
+              "detail": "The hidden vessel maker and its connection to Gaster."
+            },
+            {
+              "label": "Jevil",
+              "detail": "A Chapter 1 secret boss reached through hidden key items."
+            },
+            {
+              "label": "Spamton",
+              "detail": "A Chapter 2 secret boss with a punishing NEO form."
             }
           ]
         }
@@ -304,27 +358,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Deltarune Kris Fight.",
+      "description": "Quick answers about the deltarune kris fight, its bosses, and how to survive each phase.",
       "items": [
         {
-          "question": "What is Deltarune Kris Fight?",
-          "answer": "Deltarune Kris Fight is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is the deltarune kris fight?",
+          "answer": "It is the turn-based battle system at the heart of DELTARUNE, where Kris leads Susie and Ralsei while you dodge bullet patterns as the red SOUL."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I get better at the deltarune kris fight?",
+          "answer": "Practice grazing bullets for Tension Points, DEFEND before heavy phases, and keep Ralsei's healing ready so the party survives longer encounters."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which bosses are part of the deltarune kris fight?",
+          "answer": "Major encounters include the Chaos King, Jevil, Queen, GIGA Queen, and Spamton NEO, each with its own attack phases and tactics."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I finish the deltarune kris fight without defeating anyone?",
+          "answer": "Yes. ACT commands and SPARE fill the Mercy meter, letting you complete fights peacefully on the pacifist route."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should I start with the deltarune kris fight?",
+          "answer": "Begin with the beginner guide, then move on to the walkthrough and boss guides as the encounters get harder."
         }
       ]
     },
